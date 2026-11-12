@@ -1,0 +1,7 @@
+bot.db
+logs/
+reports/
+archive/
+input/
+__pycache__/
+.pytest_cache/
